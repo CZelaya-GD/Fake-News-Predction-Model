@@ -47,3 +47,7 @@ This project implements a fake news detection model using the RoBERTa transforme
 3.  Commit your changes with descriptive commit messages.
 4.  Push your changes to your fork.
 5.  Submit a pull request.
+
+## License
+
+MIT
